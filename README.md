@@ -1,8 +1,22 @@
-   Hi! My name is Alex and I enjoy creating Websites and apps. I'm a tech enthusiast since I was a kid and in december 2021 I decided to start my adventure into coding,
-   trying to turn my biggest passion into my job.
-   I started from web developing with HTML & CSS and currently I am studying JavaScript.
-   
-- 💞️ I’m looking to collaborate on HTML and CSS for now
-- 📫 To contact me compile the form on my portfolio page
+:wave: Hi everyone, my name is Alex Peluso an I enjoy creating good looking and accessible websites and web-apps. 
+I am passionate about everything that is tech since I was a kid, when I started to take my first steps in this world using my father's computer to play videogames with him.
 
+:books: In 2021, after working in other fields, I decided to start studying something that i really like and try to transform my biggest passion into my job.
+I always liked the development world but I never really got into it until that time and I found out that this was the best fit for me. 
+
+:hammer_and_wrench: I love the feeling of building something useful and accessible at the same time and I got addicted to finding creative solutions and problem solving. 
+
+:computer: Here are a few technologies I’ve been studying and using recently:
+
+- HTML & CSS
+- Javascript (ES6+)
+- React
+- React native
+- Typescript 
+- Node.js
+- Next.js
+- express
+- MongoDB
+
+:briefcase: Here you can find my [Portfolio] (https://alexpelusoportfolio.netlify.app)
 
