@@ -18,5 +18,5 @@ I always liked the development world but I never really got into it until that t
 - express
 - MongoDB
 
-:briefcase: Here you can find my [Portfolio] (https://alexpelusoportfolio.netlify.app)
+:briefcase: Here you can find my [Portfolio](https://alexpelusoportfolio.netlify.app)
 
